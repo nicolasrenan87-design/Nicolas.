@@ -1,0 +1,18 @@
+REDGRAM+ — Site institucional
+
+COMO ABRIR
+1. Extraia o arquivo ZIP.
+2. Abra a pasta REDGRAM_plus_site no Visual Studio Code.
+3. Abra o arquivo index.html no navegador. Se preferir, use a extensão Live Server.
+
+ARQUIVOS
+- index.html: estrutura e conteúdo do site.
+- style.css: estilos e responsividade.
+- script.js: menu, formulário de inscrição e atendimento virtual.
+- assets/: logo e material de divulgação enviados.
+
+PERSONALIZAÇÃO
+Os dados de contato, endereço e valores estão no index.html. O número do WhatsApp usado nos links está no script.js.
+
+ATENÇÃO
+O atendimento integrado nesta versão é um assistente demonstrativo com respostas predefinidas; não é uma conexão com a API do ChatGPT. O formulário prepara uma mensagem e abre o WhatsApp, mas o visitante precisa confirmar o envio. Para publicar o site, envie os arquivos para um serviço de hospedagem.
